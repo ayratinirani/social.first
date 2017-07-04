@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/home"
+
+        title="خانه"
+    icon="@drawable/ic_home"
+        />
+    <tab
+        id="@+id/profile"
+
+        title="پروفایل"
+    icon="@drawable/ic_person"
+    />
+    <tab
+        id="@+id/new_post"
+
+        title="پست جدید"
+    icon="@drawable/ic_create"
+    />
+    <tab
+        id="@+id/latest"
+
+        title="جدیدترینها"
+    icon="@drawable/ic_latest"
+        />
+    <tab
+        id="@+id/search"
+
+        title="جستجو"
+    icon="@drawable/ic_search"
+        />
+</tabs>
